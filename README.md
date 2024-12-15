@@ -93,7 +93,9 @@ public class ProceduralWalk : MonoBehaviour
 ## Contributions
 
 Contributions to this repository are welcome! If you’d like to add new examples, improve documentation, or report issues, feel free to open an issue or submit a pull request.
-
+https://nathenwilliams600.wixsite.com/nategamedev
+in/nathenwilliams
+https://www.artstation.com/happilytwisted
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
